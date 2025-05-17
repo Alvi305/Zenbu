@@ -4,8 +4,6 @@ A Flutter prototype built for PolyHack2022.
 
 Team: The Goal Diggers
 
-Developers: Holden & Jack
-
 >Zenbu, your first open banking app. Beyond just banking.
 
 ## Installation
